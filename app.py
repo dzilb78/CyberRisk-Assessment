@@ -587,7 +587,7 @@ if company and st.session_state.industry_confirmed:
                     st.session_state.ai_advice = data["choices"][0]["message"]["content"]
 
                 except Exception as e:
-                    st.session_state.ai_advice = f"Could not generate advice: {e}"
+                    st.session_state.ai_advice = f"Could not generate advice: {e}, please check your API key."
 
         st.markdown(
             f"<div class='custom-card'>{st.session_state.ai_advice}</div>",
