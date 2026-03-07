@@ -1,0 +1,16 @@
+#Virtual Env.
+.venv/
+
+#DB Files:
+*.db
+
+# OS Files:
+.DS_Store
+
+# PYC
+*.pyc
+
+# Cache
+__pycache__/
+
+
