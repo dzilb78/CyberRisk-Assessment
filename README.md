@@ -44,9 +44,11 @@ The goal is to provide organizations with a quick overview of potential cybersec
 
 ## Installation
 
-Clone the repository
-Run the folder in Command Prompt or Terminal 
-Enter: "streamlit run app.py"
+1. Clone the repository
+
+2. Run the folder in Command Prompt or Terminal 
+
+3. Enter: "streamlit run app.py"
 
 ## Note:
 
