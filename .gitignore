@@ -13,4 +13,7 @@
 # Cache
 __pycache__/
 
+#devcontainer
+#.devcontainer/
+
 
